@@ -1,0 +1,14 @@
+{
+  "name": "Validate",
+  "version": "0.0.1",
+  "description": "test validate",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [
+    "validate"
+  ],
+  "author": "tc",
+  "license": "mig"
+}
